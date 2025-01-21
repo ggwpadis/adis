@@ -1,0 +1,12 @@
+D:\web\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\web\Domain\bin\Debug\net6.0\Domain.dll
+D:\web\Domain\bin\Debug\net6.0\Domain.pdb
+D:\web\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\web\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\web\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\web\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\web\Domain\obj\Debug\net6.0\Domain.dll
+D:\web\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\web\Domain\obj\Debug\net6.0\Domain.pdb
+D:\web\Domain\obj\Debug\net6.0\ref\Domain.dll
